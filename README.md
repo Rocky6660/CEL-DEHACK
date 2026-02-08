@@ -4,7 +4,7 @@ Here is a professional `README.md` file tailored for your GitHub repository. It 
 
 ---
 
-# Automated Retail Checkout System (Vista Challenge)
+# Automated Retail Checkout System 
 
 **Team:** 404 Brain not found
 
