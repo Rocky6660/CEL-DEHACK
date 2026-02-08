@@ -87,10 +87,11 @@ The trained model weights (`best.pt`) are loaded to run inference on the test da
 
 ```
 
-## 🤝 Contributing
+## Developers' Names
+Samarth Soni (2024A2PS1243P)
+Bharat Kumar Saxena (2024B5A31071P)
+Hardik Jasuja (2024B3AD0918P)
+Raghav Chawdhry (2024B3A40955P)
 
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
----
 
-*Built with 💻 and ☕ by Team 404 Brain not found.*
